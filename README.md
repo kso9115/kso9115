@@ -1,13 +1,25 @@
 <div align='center'>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=8493A6&height=150&section=header" />
 
-  <div align=center><h1>📚 STACKS</h1></div>
+  
 
-##WithKids🐣
+# WithKids🐣
 <h1></h1>
+> **지역 아동 관리 웹 프로그램 플랫폼** <br/> **개발기간: 2024.03 ~ 2024.05**
 
+## 배포 주소
+> **개발 버전** :
 
-<div align=center> 
+## 웹개발팀 소개
+
+|      김수옥       |          임명건         |       임시운         |                                                                                                               
+| :------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | 
+|   <img width="160px" src="이미지주소" />    |                      <img width="160px" src="이미지주소" />    |                   <img width="160px" src="이미지주소"/>   |
+|   [@KimSUOk](https://github.com/kso9115)   |    [@ImMyeongGun](https://github.com/img4029)  | [@ImSiWoon](https://github.com/Limsiwoon)  |
+| 팀장 | 팀원 | 팀원 |
+
+<div> 
+  <div><h1>📚 STACKS</h1></div>
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <br>
   
@@ -38,7 +50,21 @@
 </div>
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kso9115)](https://github.com/anuraghazra/github-readme-stats) 
+
+  <div><h1>🔎 주요기능</h1></div>
+  1. 아동의 개인 정보 관리 및 추가 기능
+
+  2. 프로그램 정보 관리 및 추가, 수정 기능
+
+  3. 아동 출석/급식 관리 기능
+  
+  4. 공지사항
+
+  5. 프로그램 신청과 결제 기능
+
 </div>
+
+
 
 <p align='center'>
   <a href="https://github.com/kyechan99/capsule-render/labels/Idea">
