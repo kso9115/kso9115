@@ -1,4 +1,15 @@
- 
+<p align='center'>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8493A6&height=150&section=header" />
+ ??
+</p>
+
+<p>
+ ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
+</p>
+
+<img src="https://img.shields.io/badge/React-#61DAFB?style=for-the-badge&logo=React&logoColor=white">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kso9115)](https://github.com/anuraghazra/github-readme-stats) 
 <p align='center'>
  ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
  
