@@ -1,11 +1,7 @@
-<p align='center'>
+<div align='center'>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=8493A6&height=150&section=header" />
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kso9115)](https://github.com/anuraghazra/github-readme-stats) 
-</p>
-
-// 스택
-<div align=center><h1>📚 STACKS</h1></div>
+  <div align=center><h1>📚 STACKS</h1></div>
 
 <div align=center> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
@@ -37,6 +33,10 @@
   <br>
 </div>
 
+
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kso9115)](https://github.com/anuraghazra/github-readme-stats) 
+</div>
 <p>
  ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 </p>
