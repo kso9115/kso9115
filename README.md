@@ -1,10 +1,9 @@
-<div align='center'>
+<div>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=8493A6&height=150&section=header" />
 
   
 
 # WithKids🐣
-<h1></h1>
 
 > **지역 아동 관리 웹 프로그램 플랫폼** <br/> **개발기간: 2024.03 ~ 2024.05**
 
