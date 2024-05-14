@@ -3,10 +3,15 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=8493A6&height=150&section=header" />
 </p>
 
-
-![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
+<p>
+ ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
+<img src="https://img.shields.io/badge/React-#61DAFB?style=for-the-badge&logo=React&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/Spring-#6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
+<img src="https://img.shields.io/badge/Spring Boot-#6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
+<img src="https://img.shields.io/badge/JPA-#20336B?style=for-the-badge&logo=JPA&logoColor=white">
 
+</p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=깃허브 아이디)](https://github.com/anuraghazra/github-readme-stats)
 
