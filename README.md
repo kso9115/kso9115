@@ -1,6 +1,6 @@
  
 <p align='center'>
-    <img src="http://3.35.135.209:3000/static/media/1920_x_950_px.95ca11418fc510d0f398.png"/>
+    <img src="https://github.com/kso9115#transparent-"/>
 </p>
 
 <p align='center'>
