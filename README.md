@@ -1,8 +1,6 @@
 <div>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=8493A6&height=150&section=header" />
 
-  
-
 # About me 📣
 
 > **마케팅 분야에서 1년 1개월의 경력을 보유한 새싹 개발자입니다.
@@ -28,8 +26,6 @@ GitHub과 SourceTree를 통한 협업 경험 또한 보유하고 있습니다.**
 
 ## 🏅 Certifications
 
----
-
 - 리눅스 마스터 2급(진행중)
     - 1차 합격 완료 후 2차 시험 진행 예정
     - KAIT 정보통신기술자격검정
@@ -44,8 +40,6 @@ GitHub과 SourceTree를 통한 협업 경험 또한 보유하고 있습니다.**
 - 2종보통운전면허 (2021.06)
 
 ## 📖 **Educations**
-
----
 
 - 프로젝트기반 웹&앱(자바,스프링,리액트,노코드) SW개발자 양성과정
     - 2023-10-25 - 2024-05-30
