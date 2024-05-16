@@ -49,7 +49,7 @@ GitHub과 SourceTree를 통한 협업 경험 또한 보유하고 있습니다.**
     - 2021-05-25 - 2021-07-20
 
 <div> 
-  <div><h1>📚 STACKS</h1></div>
+  <div>## 📚 **Stacks**</div>
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <br>
   
@@ -79,6 +79,7 @@ GitHub과 SourceTree를 통한 협업 경험 또한 보유하고 있습니다.**
   <br>
 </div>
 
+## 📊 Language
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kso9115)](https://github.com/anuraghazra/github-readme-stats) 
 
 </div>
