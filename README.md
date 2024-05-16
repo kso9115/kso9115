@@ -1,7 +1,7 @@
 <div>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=8493A6&height=150&section=header" />
 
-# About me 📣
+## About me 📣
 
 > **마케팅 분야에서 1년 1개월의 경력을 보유한 새싹 개발자입니다.
 주로 Java와 Spring을 다룰 수 있으며,
@@ -49,7 +49,7 @@ GitHub과 SourceTree를 통한 협업 경험 또한 보유하고 있습니다.**
     - 2021-05-25 - 2021-07-20
 
 <div> 
-  <div>## 📚 **Stacks**</div>
+  ## 📚 Stacks
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <br>
   
