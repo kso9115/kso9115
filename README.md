@@ -48,8 +48,9 @@ GitHub과 SourceTree를 통한 협업 경험 또한 보유하고 있습니다.**
 - [데이터자격시험] SQL 개발자(SQLD)자격증시험
     - 2021-05-25 - 2021-07-20
 
+## 📚 Stacks
+
 <div> 
-  ## 📚 Stacks
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <br>
   
