@@ -10,6 +10,8 @@
 ## Contact me 
 > **Email** : kso77649115@gmail.com <br>
 
+<br>
+
 - 웹 서비스의 **기획안 작성 단계부터 설계, 개발, 배포까지 참여**한 프로젝트 경험 보유
 - CI/CD를 위한 Github Action 툴 활용의 경험(할예정)
 - With Kids 프로젝트를 진행하며 **Slow query를 개선한 경험**
