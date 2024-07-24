@@ -9,11 +9,11 @@ Amazon RDS와 EC2를 활용한 클라우드 서비스 구축 경험이 있습니
 약 6개월간의 교육을 통해 프론트엔드와 백엔드를 모두 다룰 수 있는 개발 역량을 갖추었으며,<br>
 GitHub과 SourceTree를 통한 협업 경험 또한 보유하고 있습니다.** <br/>
 
+<br>
+<br>
 ## Contact me 
 > **Email** : kso77649115@gmail.com <br>
 
-<br>
-<br>
 
 - 웹 서비스의 **기획안 작성 단계부터 설계, 개발, 배포까지 참여**한 프로젝트 경험 보유
 - CI/CD를 위한 Github Action 툴 활용의 경험(할예정)
