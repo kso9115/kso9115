@@ -3,15 +3,16 @@
 
 ## About me 📣
 
-> **마케팅 분야에서 1년 1개월의 경력을 보유한 새싹 개발자입니다.
+> **마케팅 분야에서 1년 1개월의 경력을 보유한 새싹 개발자입니다.<br>
 주로 Java와 Spring을 다룰 수 있으며,
-Amazon RDS와 EC2를 활용한 클라우드 서비스 구축 경험이 있습니다. 
+Amazon RDS와 EC2를 활용한 클라우드 서비스 구축 경험이 있습니다.<br>
 약 6개월간의 교육을 통해 프론트엔드와 백엔드를 모두 다룰 수 있는 개발 역량을 갖추었으며,
 GitHub과 SourceTree를 통한 협업 경험 또한 보유하고 있습니다.** <br/>
 
 ## Contact me 
 > **Email** : kso77649115@gmail.com <br>
 
+<br>
 <br>
 
 - 웹 서비스의 **기획안 작성 단계부터 설계, 개발, 배포까지 참여**한 프로젝트 경험 보유
@@ -23,7 +24,8 @@ GitHub과 SourceTree를 통한 협업 경험 또한 보유하고 있습니다.**
     - (주)노블컴퍼니 마케터 직무로 근무하며 디자인, 개발자 직군과의 협업 경험 보유
     - 광고 수주를 통해 팀 전체 매출 5% 성장에 기여
 
-
+<br>
+<br>
 
 ## 🏅 Certifications
 
@@ -39,7 +41,8 @@ GitHub과 SourceTree를 통한 협업 경험 또한 보유하고 있습니다.**
     - 대한상공회의소
 - 2종보통운전면허 (2021.06)
 
-
+<br>
+<br>
 
 ## 📖 **Educations**
 
@@ -51,7 +54,8 @@ GitHub과 SourceTree를 통한 협업 경험 또한 보유하고 있습니다.**
     - 2021-05-25 - 2021-07-20
 
 
-
+<br>
+<br>
 ## 📚 Stacks
 
 <div> 
@@ -84,27 +88,5 @@ GitHub과 SourceTree를 통한 협업 경험 또한 보유하고 있습니다.**
   <br>
 </div>
 
-## 📊 Language
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kso9115)](https://github.com/anuraghazra/github-readme-stats) 
-
-</div>
-
-
-
-<p align='center'>
-  <a href="https://github.com/kyechan99/capsule-render/labels/Idea">
-    <img src="https://img.shields.io/badge/IDEA%20ISSUE%20-%23F7DF1E.svg?&style=for-the-badge&&logoColor=white"/>
-  </a>
-  <a href="#demo">
-    <img src="https://img.shields.io/badge/DEMO%20-%234FC08D.svg?&style=for-the-badge&&logoColor=white"/>
-  </a>
-  <a href="https://capsule-render.vercel.app/">
-    <img src="https://img.shields.io/badge/Generator%20-%235c86fa.svg?&style=for-the-badge&&logoColor=white"/>
-  </a>
-</p> 
-<p align="center"> 
-  <a href="README.md">English</a> 
-  ·
-  <a href="/docs/README_kr.md">한국어</a> 
-</p>
-<br/>
+<br>
+<br>
