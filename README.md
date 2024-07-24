@@ -1,7 +1,7 @@
 <div>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=8493A6&height=150&section=header" />
 
-## About me 📣
+## 📣 About me
 
 > **마케팅 분야에서 1년 1개월의 경력을 보유한 새싹 개발자입니다.<br>
 주로 Java와 Spring을 다룰 수 있으며,
@@ -11,7 +11,7 @@ GitHub과 SourceTree를 통한 협업 경험 또한 보유하고 있습니다.**
 <br>
 <br>
 
-## Contact me 
+## 📱 Contact me 
 > **Email** : kso77649115@gmail.com <br>
 - 웹 서비스의 **기획안 작성 단계부터 설계, 개발, 배포까지 참여**한 프로젝트 경험 보유
 - CI/CD를 위한 Github Action 툴 활용의 경험(할예정)
@@ -39,7 +39,7 @@ GitHub과 SourceTree를 통한 협업 경험 또한 보유하고 있습니다.**
 <br>
 <br>
 
-## 📖 **Educations**
+## 📚 **Educations**
 - 프로젝트기반 웹&앱(자바,스프링,리액트,노코드) SW개발자 양성과정
     - 2023-10-25 - 2024-05-30
 - 웹퍼블리싱 & 웹개발을 위한 코딩 기초
@@ -49,7 +49,7 @@ GitHub과 SourceTree를 통한 협업 경험 또한 보유하고 있습니다.**
 <br>
 <br>
 
-## 📚 Stacks
+## 💻 Stacks
 
 <div> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
